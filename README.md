@@ -63,7 +63,8 @@ O servidor sera iniciado em `http://localhost:3000`.
 {
   "integrantes": [
     { "nome": "Kevin Kuznier" },
-    { "nome": "Diogo Vieira" }
+    { "nome": "Diogo Vieira" },
+    { "nome": "Lucas Corso" }
   ]
 }
 ```
@@ -72,3 +73,4 @@ O servidor sera iniciado em `http://localhost:3000`.
 
 - Kevin Kuznier
 - Diogo Vieira
+- Lucas Corso
